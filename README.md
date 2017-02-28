@@ -3,3 +3,4 @@ Teaching Physical Computing with Raspberry Pi and Python | Raspberry Pi Foundati
 
 ## Resources
 * [Simple Electronics with GPIO Zero](https://www.raspberrypi.org/magpi-issues/Essentials_GPIOZero_v1.pdf  target="_blank")
+ * <a href="http://example.com/" target="_blank">Hello, world!</a>
