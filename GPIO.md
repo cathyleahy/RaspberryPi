@@ -1,1 +1,2 @@
 # Gerneral Purpose Input Output (GPIO)
+![GPIO](https://s3-eu-west-1.amazonaws.com/raspberrypi-education/teaching-physical-computing/gpio-numbers-pi2.png)
