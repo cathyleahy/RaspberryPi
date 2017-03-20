@@ -8,3 +8,5 @@ Teaching Physical Computing with Raspberry Pi and Python | Raspberry Pi Foundati
 * [GPIO Recipes](https://gpiozero.readthedocs.io/en/v1.3.1.post1/recipes.html#pin-numbering)
 * [Raspberry Pi Instructables](https://www.instructables.com/tag/type-id/category-technology/channel-raspberry-pi/)
 
+## Ideas
+* [Build a talking, face-recognizing doorbell for about $100](https://www.oreilly.com/ideas/build-a-talking-face-recognizing-doorbell-for-about-100)
